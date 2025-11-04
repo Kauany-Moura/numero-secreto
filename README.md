@@ -42,6 +42,16 @@ Você deve tentar adivinhar qual é esse número dentro de um número limitado d
 
 ---
 
-## 💻 Como compilar e executar
+## ⚠️ Aviso
+
+Pra corrigir e ser exibido caracteres especiais como por exemplo o acento no "Olá mundo":
+
+Clique com o botão direito do seu mouse sob o `LC_ALL`
+
+Em seguida selecione: 
+1. `Command Palette`
+2. `Change File Encoding`
+3. `Save Witch Encoding`
+4. `Wetern Iso 8859-1`
 
 
