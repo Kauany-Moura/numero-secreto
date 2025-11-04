@@ -45,9 +45,8 @@ Você deve tentar adivinhar qual é esse número dentro de um número limitado d
 ## ⚠️ Aviso
 
 Pra corrigir e ser exibido caracteres especiais como por exemplo o acento no "Olá mundo":
-
-Inclua a biblioteca `#include <locale.h>`
-Depois dentro do main: `setlocale(LC_ALL, "Portuguese");`
+- Inclua a biblioteca `#include <locale.h>`
+- Depois dentro do main: `setlocale(LC_ALL, "Portuguese");`
 
 Clique com o botão direito do seu mouse sob o `LC_ALL`
 
